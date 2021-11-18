@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NguyenTrong17070
+- 👀 I’m interested in C++.
+- 🌱 I’m currently learning C/C++
+- 💞️ I'm doing a project about code array
+- 📫 How to reach me minhtrong17072007@gmail.com
